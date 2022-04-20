@@ -270,6 +270,8 @@ h4 {
   background: url("../img/cactus-1.jpg");
   background-position: center;
   background-size: cover;
+  border-style: outset;
+  border-color: #f0d9ce;
 }
 
 #work {
@@ -420,14 +422,14 @@ footer .social-icons li i {
 
 /* -------------------- Mobile Styles - Homepage -------------------- */
 
-/* Header */
+/* ===== Header ===== */
 header {
   padding-bottom: 60px;
   padding-top: 60px;
 }
 
 header .hi {
-  font-size: 3.125rem;
+  font-size: 3.25rem;
 }
 
 nav {
@@ -448,7 +450,7 @@ nav {
   height: 250px;
 }
 
-/* Portfolio */
+/* ===== Portfolio ====== */
 #work,
 #skills {
   width: 100%;
@@ -459,6 +461,7 @@ nav {
 }
 
 #work {
+  padding-bottom: 15px;
   padding-top: 40px;
 }
 
@@ -467,6 +470,7 @@ nav {
 }
 
 img {
+  height: 145;
   width: 80%;
 }
 
@@ -512,7 +516,7 @@ img {
   color: #374942;
 }
 
-/* Skills */
+/* ===== Skills ===== */
 
 #skills {
   background-color: #152A3E;
@@ -545,7 +549,7 @@ img {
   width: 100%;
 }
 
-/* About */
+/* ===== About ===== */
 #about {
   margin-bottom: 40px;
   width: 100%;
@@ -564,7 +568,7 @@ img {
 /* Footer */
 
 #contact {
-  padding: 20px 0 40px 0;
+  padding: 20px 0 50px 0;
 }
 
 #contact .content-wrapper {
@@ -576,7 +580,7 @@ img {
 }
 
 .contact-title {
-  margin: 0 0 20px 0;
+  margin: 20px 0 20px 0;
 }
 
 .contact-info {
