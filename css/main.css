@@ -320,7 +320,6 @@ figure {
   }
   
 .about-info p {
-  font-weight: bold;
   color: #152A3E;
   }
 
@@ -567,7 +566,7 @@ img {
   color: #152A3E;
 }
 
-/* Footer */
+/* ===== Footer ===== */
 
 #contact {
   padding: 20px 0 50px 0;
@@ -591,6 +590,10 @@ img {
 
 footer .social-icons {
   justify-content: space-evenly;
+}
+
+.copyright {
+  margin-top: 30px;
 }
 
 
@@ -885,13 +888,9 @@ footer .social-icons {
   .project-description {
     width: 95%;
   }
-
-  .project-1 {
-    margin-top: 100px;
-  }
-
-  .project-4 {
-    margin-top: 100px;
+  
+  .project-2 {
+    margin-top: 70px;
   }
 
   .language-wrapper,
@@ -967,7 +966,7 @@ footer .social-icons {
   }
 
   footer .copyright {
-    font-size: 1.25rem;
+    font-size: 1rem;
     margin-top: 20px;
     width: 100%;
   }
@@ -1037,7 +1036,7 @@ footer .social-icons {
   /* ===== Element Margins ===== */
 
   header {
-    padding-top: 60px;
+    padding-top: 80px;
     padding-bottom: 140px;
   }
 
