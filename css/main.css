@@ -185,6 +185,7 @@ address {
 }
 
 /* ===== Structural Styles ===== */
+
 header,
 #work,
 #skills,
@@ -471,7 +472,7 @@ nav {
 }
 
 img {
-  height: 145px;
+  height: 200px;
   width: 80%;
 }
 
@@ -551,6 +552,7 @@ img {
 }
 
 /* ===== About ===== */
+
 #about {
   margin-bottom: 40px;
   width: 100%;
@@ -885,6 +887,11 @@ footer .social-icons {
     font-size: 1.5rem;
   }
 
+  img {
+    height: 165px;
+    width: 80%;
+  }
+
   .project-description {
     width: 95%;
   }
@@ -1115,6 +1122,7 @@ footer .social-icons {
   }
 
   /* ===== Header ===== */
+
   header .content-wrapper {
     justify-content: flex-end;
     width: 90%;
