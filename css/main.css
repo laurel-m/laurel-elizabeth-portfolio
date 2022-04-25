@@ -471,7 +471,7 @@ nav {
 }
 
 img {
-  height: 145px;
+  height: 200px;
   width: 80%;
 }
 
@@ -883,6 +883,11 @@ footer .social-icons {
 
   .home-portfolio-piece h4 {
     font-size: 1.5rem;
+  }
+
+  img {
+    height: 180px;
+    width: 80%;
   }
 
   .project-description {
