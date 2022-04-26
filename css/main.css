@@ -688,6 +688,7 @@ footer .social-icons {
    ========================================================================== */
 
   @media only screen and (min-width:768px) {
+
   /* ===== TABLET STYLES ===== */
 
   /* ===== General Styles ===== */
@@ -1223,6 +1224,7 @@ footer .social-icons {
   }
 
   /* ===== Contact ===== */
+
   footer .content-wrapper {
     max-width: 70%;
   }
@@ -1231,6 +1233,11 @@ footer .social-icons {
     width: 12.5em;
     justify-content: space-evenly;
   }
+
+  .contact-info p {
+    font-size: 1.375rem;
+  }
+
 }
 
 @media only screen and (min-width: 35em) {
