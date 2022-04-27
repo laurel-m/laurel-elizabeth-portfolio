@@ -1209,6 +1209,11 @@ footer .social-icons {
     font-size: 1.25rem;
   }
 
+  #about figure {
+    margin-top: 0;
+    width: 35%;
+  }
+
   .about-content-wrapper {
     display: flex;
     justify-content: center;
